@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Island Traveller</string>
+    <!--    <string name="google_client_id">136456547716-veu9f2ap5f7n0usgtvlt218li8l9pioo.apps.googleusercontent.com</string>-->
+    <string name="google_client_id">136456547716-veu9f2ap5f7n0usgtvlt218li8l9pioo.apps.googleusercontent.com</string>
+    <string name="facebook_app_id">1667105330132111</string>
+    <string name="fb_login_protocol_scheme">fb1667105330132111</string>
+    <string name="API_KEY">AIzaSyAEABZjHUhsGvJtRixVC_gqcVg3tpUVCGA</string>
+   <!-- <string name="API_KEY">AIzaSyCAY13Alzm3uM4cW7_O3LXsO-0qtdQtroM</string>-->
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="current_date">AUGUST, 2020</string>
+    <string name="add_event">ADD CALENDAR EVENT</string>
+    <string name="sun">Su</string>
+    <string name="mon">Mo</string>
+    <string name="tue">Tu</string>
+    <string name="wed">We</string>
+    <string name="thu">Th</string>
+    <string name="fri">Fr</string>
+    <string name="sat">Sa</string>
+    <string name="last_date">30</string>
+</resources>

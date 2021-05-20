@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "155698325696",
+    "project_id": "islantraveller-3b02e",
+    "storage_bucket": "islantraveller-3b02e.appspot.com"
+  },"installed":{"client_id":"136456547716-u331rsn81chm1ei3iih3cn3ue4udp0mi.apps.googleusercontent.com","project_id":"islandtraveller","auth_uri":"https://accounts.google.com/o/oauth2/auth","token_uri":"https://oauth2.googleapis.com/token","auth_provider_x509_cert_url":"https://www.googleapis.com/oauth2/v1/certs","redirect_uris":["urn:ietf:wg:oauth:2.0:oob","http://localhost"]},
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:155698325696:android:55938570ba1109f7be2525",
+        "android_client_info": {
+          "package_name": "com.islantraveller"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "155698325696-13a3fjcnlmb0g9q1dbjovs398r33begn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.islantraveller",
+            "certificate_hash": "374aaf8305bd9be4172e9985a5d6cc6757ea5cf2"
+          }
+        },
+        {
+          "client_id": "155698325696-94ekjb1h80r3s49nflgtmdm93kghvfjk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.islantraveller",
+            "certificate_hash": "c6e44bfc314ca42bd89b65582939990755aca5ed"
+          }
+        },
+        {
+          "client_id": "155698325696-dm4dcjp1oe78btkr8l3cq592on7irb0b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.islantraveller",
+            "certificate_hash": "13544e4edab1e812c7f3b8f8316b248b9e70a5c4"
+          }
+        },
+        {
+          "client_id": "155698325696-snsat0g0kpgqifucohf1c0enajk7nrq8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCN_qRhuvtgvln33KF53uznpMIe0DfWcD0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "155698325696-snsat0g0kpgqifucohf1c0enajk7nrq8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

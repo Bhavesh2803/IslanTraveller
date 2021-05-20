@@ -1,0 +1,2 @@
+rootProject.name='IslanTraveller'
+include ':app' ,':WheelPicker'
